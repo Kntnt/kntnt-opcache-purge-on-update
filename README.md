@@ -1,6 +1,6 @@
-# Kntnt's opcache resetter on update
+# Kntnt's reset opcache on update plugin
 
-WordPress mu-plugin that reset opcache on update.
+WordPress mu-plugin that resets opcache on plugin installation or update.
 
 ## Description
 
