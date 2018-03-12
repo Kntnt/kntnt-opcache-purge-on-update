@@ -3,7 +3,7 @@
 /**
  * @wordpress-plugin
  * Plugin Name:       Kntnt's reset opcache on update plugin.
- * Plugin URI:        https://www.kntnt.com/
+ * Plugin URI:        https://github.com/TBarregren/kntnt-reset-opcache-on-update
  * Description:       Resets opcache when the upgrade process is completed.
  * Version:           1.0.0
  * Author:            Thomas Barregren
