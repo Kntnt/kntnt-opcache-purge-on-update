@@ -9,7 +9,7 @@ If you turn of timestamp validation to avoid unnecessary filesystem calls, you w
 ## Installation
 
 1. In your `wp-content` directory, create a `mu-plugin` directory if it not already exists.
-2. Copy `kntnt-reset-opcache-on-update.php` into `mu-plugin`. Only the file. No additional diretory.
+2. Copy `kntnt-reset-opcache-on-update.php` into `mu-plugin`. Only the file. No additional directory.
 
 ## Changelog
 
