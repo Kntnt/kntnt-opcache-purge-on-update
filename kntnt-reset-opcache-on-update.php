@@ -13,8 +13,8 @@
  */
 
 
-defined('ABSPATH') || die;
+defined( 'ABSPATH' ) || die;
 
-add_action('upgrader_process_complete', function () {
-  opcache_reset();  
-}, 9999, 2);
+add_action( 'upgrader_process_complete', function () {
+	opcache_reset();
+}, 9999, 2 );
